@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @tashik
+- 👀 I’m interested in Quantitative Trading
+- 🌱 I’m currently learning Python & Linear Algebra
+- 💞️ I’m looking to collaborate on Cross-platform cross-exchanges option analytical and trading software
